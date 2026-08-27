@@ -1,0 +1,25 @@
+LEARNATHON 5.0 OFFICIAL RULES
+
+1. Teams must consist of 2 to 4 members.
+
+2. Cross-branch teams are allowed, but all team members must be currently enrolled students of GIET University, Gunupur.
+
+3. Each team must register through the official registration process before the team registration deadline.
+
+4. Participants must choose one problem statement domain and one technology track at the time of registration/submission.
+
+5. All code and solutions must be built during the hackathon window.
+
+6. Pre-built projects are not permitted.
+
+7. Open-source libraries and APIs are allowed with proper attribution.
+
+8. Plagiarism, code theft, or any form of malpractice may lead to immediate disqualification.
+
+9. Teams must carry a valid college ID card for verification at check-in.
+
+10. The decision of the judging panel will be final and binding.
+
+11. Organizers reserve the right to modify rules, schedules, or problem statements if required.
+
+12. Participants are expected to maintain discipline and follow the code of conduct throughout the event on campus.

@@ -1,0 +1,48 @@
+LEARNATHON 5.0 PROBLEM STATEMENT DOMAINS
+
+Learnathon 5.0 contains problem statements across 15 real-world domains.
+
+1. Agriculture & Smart Farming
+Precision farming, crop monitoring, and AgriTech innovations.
+
+2. Healthcare & Telemedicine
+Remote diagnostics, patient care technology, and digital health tools.
+
+3. Biotechnology
+Bioinformatics, genetic research applications, and health-tech convergence.
+
+4. Environmental Sustainability
+Climate action, pollution control, and green-tech solutions.
+
+5. Renewable Energy
+Clean energy systems, smart grids, and energy optimization.
+
+6. Smart Cities
+Urban infrastructure, traffic management, and civic-tech innovation.
+
+7. Education Technology
+Learning platforms, skill assessment, and accessible education.
+
+8. Transportation & Logistics
+Supply chain optimization, fleet management, and mobility solutions.
+
+9. Aeronautical & Aerospace
+Aviation technology, drone systems, and space-tech applications.
+
+10. Disaster Management
+Early warning systems, relief coordination, and crisis response technology.
+
+11. Water Resource Management
+Water conservation technology, quality monitoring, and distribution systems.
+
+12. Rural Development
+Grassroots innovation and technology solutions for underserved communities.
+
+13. E-Governance
+Digital public services, transparency tools, and citizen engagement.
+
+14. Financial Inclusion
+FinTech solutions for the unbanked, micro-lending, and digital payment access.
+
+15. Social Innovation
+Technology for social good, community development, and positive social impact.

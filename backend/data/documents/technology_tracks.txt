@@ -1,0 +1,39 @@
+LEARNATHON 5.0 TECHNOLOGY TRACKS
+
+Learnathon 5.0 spans 20 technology tracks across four broad clusters.
+
+
+1. INTELLIGENCE & DATA — 7 TRACKS
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Generative AI
+- Data Science
+- Data Analytics
+- Natural Language Processing (NLP)
+- One additional track is not provided in the supplied event material
+
+
+2. SECURITY & INFRASTRUCTURE — 5 TRACKS
+
+- Cyber Security
+- Ethical Hacking
+- Cloud Computing
+- Internet of Things (IoT)
+- Edge & Fog Computing
+
+
+3. FRONTIER TECHNOLOGY — 4 TRACKS
+
+- Blockchain Technology
+- Quantum Computing
+- Robotics & Automation
+- AR / VR
+
+
+4. ENGINEERING & INDUSTRY — 4 TRACKS
+
+- MLOps
+- DevOps
+- FinTech
+- Industry 5.0

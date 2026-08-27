@@ -1,0 +1,43 @@
+# Secrets
+.env
+backend/.env
+*.env
+
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Local project virtual environment
+.venv/
+
+# Frontend backup copies
+frontend_backup/
+frontend_old/
+frontend/src/App_backup*
+
+# Local virtual environments
+.venv/
+venv/
+backend/venv/
+
+# Frontend backup files
+frontend_backup/
+frontend_old/
+frontend/src/App_backup*

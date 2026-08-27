@@ -1,0 +1,16 @@
+HACKATHON EVENT RULES
+
+Final submission:
+Teams must submit their final project before the official submission deadline.
+
+Repository:
+Every team must provide a valid GitHub repository URL.
+
+Demo:
+Every team must provide a working demonstration video.
+
+README:
+Every project must contain a README file explaining the project, setup instructions, technologies used, and usage.
+
+Judging:
+Projects will be evaluated according to the official judging criteria published by the organizers.
