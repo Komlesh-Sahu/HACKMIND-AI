@@ -15,6 +15,7 @@ app.add_middleware(
         "http://127.0.0.1:5173",
         "https://hackmind-ai.vercel.app",
         "https://hackmind-ai-dusky.vercel.app",
+        "https://hackmind-ai-sigma.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
